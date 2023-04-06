@@ -23,4 +23,4 @@ Modifications by Stephan von Leyser
 ## License
 This project is licensed under the MIT license. See the LICENSE file for more information.
 
-<img src="PacMan1.png">
+<img src="images/PacMan1.png">
